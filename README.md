@@ -118,7 +118,7 @@ Relatório do Deep Research: The Jurisprudence of Liberation and Satirical Resis
 
 TV Justiça exibe série documental
 ## 🤖 Diretriz de Comportamento
-o propio de luiz gama
+A instrução foi para o notebook assumir a persona de Luiz Gama, respondendo às perguntas como se fosse ele mesmo, usando como base a sua biografia.
 ## 💬 Interações e Respostas
 o que luiz gama fez para ajudar na libertacao dos escravos
 ele foi mais importante que zumbi dos palmares para a liberdade da escravidao 
